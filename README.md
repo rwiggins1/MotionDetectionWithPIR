@@ -1,2 +1,2 @@
 # MotionDetectionWithPIR
-Arduino Motion Detection using a PI Sensor
+Arduino Motion Detection using a PIR Sensor
