@@ -4,7 +4,7 @@
 #define pir_pen 3 // Sensor 
 #define button_pin 2 // button
 
-int sensorCalibrationTime = 30; // Time sensor needs to calibrate
+int sensorCalibrationTime = 30; // Time sensor calibration
 
 
 void setup() {
